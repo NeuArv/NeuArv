@@ -2,7 +2,7 @@
 
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0009-0009-6312-1014&color=84AA15&logo=orcid)](https://orcid.org/0009-0009-6312-1014)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-gyandatt-mishra-a6760a16b/)
-[![Email](https://img.shields.io/badge/Email-contact%40example.com-lightgrey?logo=mail&logoColor=white)](mailto:arvind.gm200124@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arvind.gm200124%40gmail.com-lightgrey?logo=mail&logoColor=white)](mailto:arvind.gm200124@gmail.com)
 
 ## About me
 I'm an independent researcher working at the intersection of topological graph theory, computational chemistry, and neural interfaces. I focus on developing concise, reproducible computational tools that accompany theoretical work.
