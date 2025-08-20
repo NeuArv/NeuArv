@@ -7,15 +7,15 @@
 ## About me
 I'm an independent researcher working at the intersection of topological graph theory, computational chemistry, and neural interfaces. I focus on developing concise, reproducible computational tools that accompany theoretical work.
 
-- 🔭 Current projects: Sigma-Bond Validator, NeuroPhoton, Hybrid-BCI Wheelchair  
+- 🔭 Current projects: NeuroPhoton, Hybrid-BCI Wheelchair , Sigma-Bond Validator
 - 🌱 Interests: topological methods in chemistry, computational neuroscience, reproducible research  
 - 📫 Contact: replace the email badge above with your preferred address or use LinkedIn  
 - ⚡ Fun: I prefer compact, well-documented code and reproducible demos
 
 ## Featured projects
-- **Sigma-Bond Validator** — Topological sigma-bond counting and validation. Preprint: [DOI 10.21203/rs.3.rs-7340867/v1](https://doi.org/10.21203/rs.3.rs-7340867/v1). Repo: https://github.com/NeuArv/sigma-bond-validator  
-- **NeuroPhoton** — Modeling framework for contactless BCIs. Zenodo: [10.5281/zenodo.16884337](https://doi.org/10.5281/zenodo.16884337). Repo: https://github.com/NeuArv/neurophoton (placeholder)  
-- **Hybrid-BCI Wheelchair** — Companion code for hybrid BCI wheelchair project. Repo: https://github.com/NeuArv/hybrid-bci-wheelchair (placeholder)
+- **Sigma-Bond Validator** — Topological sigma-bond counting and validation. Repo: https://github.com/NeuArv/sigma-bond-validator  
+- **NeuroPhoton** — Modeling framework for contactless BCIs. Repo: https://github.com/NeuArv/neurophoton-repo 
+- **Hybrid-BCI Wheelchair** — Companion code for hybrid BCI wheelchair project. Repo: https://github.com/NeuArv/hybrid-bci-wheelchair
 
 ## How to reproduce my work
 Each project I maintain includes:
@@ -25,20 +25,14 @@ Each project I maintain includes:
 - Tests (`pytest`) and a GitHub Actions CI workflow.
 
 ## Selected publications
-- Mishra, A. G. (2024). *Sigma Bond Calculation via Euler's Formula for Planar and Polyhedral Molecular Graphs*. DOI: https://doi.org/10.21203/rs.3.rs-7340867/v1  
-- Mishra, A. G. (2025). *NeuroPhoton: A Theoretical Review and Modeling Framework for Contactless BCIs*. Zenodo DOI: https://doi.org/10.5281/zenodo.16884337  
-- Kambli, M., et al. (2021). Design and Implementation of Hybrid BCI based Wheelchair. (companion repo available)
+- Mishra, A. G. (2025). *Sigma Bond Calculation via Euler's Formula for Planar and Polyhedral Molecular Graphs*. DOI: https://doi.org/10.21203/rs.3.rs-7340867/v1  
+- Mishra, A. G. (2025). *NeuroPhoton: A Theoretical Review and Modeling Framework for Contactless BCIs*. DOI: https://doi.org/10.5281/zenodo.16884337  
+- Mishra, A. G. (2021). *Design and Implementation of Hybrid BCI based Wheelchair*. DOI:https://doi.org/10.1109/ICOSEC51865.2021.9591796
 
 ## Skills & tools
-Python · NumPy · SciPy · pandas · Jupyter · Git · GitHub Actions · Docker · signal processing · graph theory
+Python · NumPy · SciPy · pandas · Jupyter · Git · GitHub Actions · signal processing · graph theory
 
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/arvind-gyandatt-mishra-a6760a16b/  
-- Email: replace with your preferred contact (or keep `arvind.gm200124@gmail.com` in the badge)
 
 ---
-
-**Notes (do these before publishing):**
-1. Replace `arvind.gm200124@gmail.com` in the email badge with your real email address or remove the badge if you prefer privacy.  
-2. Update the repo URLs under Featured projects if you host them under different names.  
-3. Optionally add a small profile image `profile.jpg` to the repo root and reference it if you want a photo in the README.
