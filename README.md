@@ -1,7 +1,7 @@
 # Arvind Gyandatt Mishra 👋
 
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0009-0009-6312-1014&color=84AA15&logo=orcid)](https://orcid.org/0009-0009-6312-1014)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?logo=github)](https://neuarv.github.io/neuarv-research-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?logo=github)](https://neuarv.github.io/neuarv-researcher/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-gyandatt-mishra-a6760a16b/)
 [![Google Scholar](https://img.shields.io/static/v1?label=Google%20Scholar&message=Arvind%20Gyandatt%20Mishra&color=blue)](https://scholar.google.com/citations?user=rHo5e1sAAAAJ&hl=en&authuser=1)
 [![Email](https://img.shields.io/badge/Email-arvind.gm200124%40gmail.com-lightgrey?logo=mail&logoColor=white)](mailto:arvind.gm200124@gmail.com)
