@@ -10,13 +10,13 @@
 I'm an independent researcher working at the intersection of topological graph theory, computational chemistry, and neural interfaces. I focus on developing concise, reproducible computational tools that accompany theoretical work.
 
 - 🔭 Current projects: Inteligent Hydration System, NeuroPhoton
-- 🌱 Interests: topological methods in computational neuroscience, smart machines, and reproducible research  
+- 🌱 Interests: Topological methods in computational neuroscience, smart machines, and reproducible research  
 - ⚡ Fun: I prefer compact, well-documented code and reproducible demos
 
 ## Featured projects
-- **IntelligentHydrationSystem** — Smart hydration machine (alternative of vending machine) Repo: [IntelligentHydrationSystem](https://github.com/NeuArv/IntelligentHydrationSystem)  
-- **NeuroPhoton** — Modeling framework for contactless BCIs. Repo: https://github.com/NeuArv/neurophoton-repo 
+- **IntelligentHydrationSystem** — Smart hydration machine (alternative of vending machine) Repo: [IntelligentHydrationSystem](https://github.com/NeuArv/IntelligentHydrationSystem)
 - **Hybrid-BCI Wheelchair** — Companion code for hybrid BCI wheelchair project. Repo: https://github.com/NeuArv/hybrid-bci-wheelchair
+- **NeuroPhoton** — Modeling framework for contactless BCIs. Repo: https://github.com/NeuArv/neurophoton-repo 
 
 ## How to reproduce my work
 Each project I maintain includes:
@@ -26,9 +26,9 @@ Each project I maintain includes:
 - Tests (`pytest`) and a GitHub Actions CI workflow.
 
 ## Selected publications
-- Mishra, A. G. (2021). *Design and Implementation of Hybrid BCI based Wheelchair*. DOI:https://doi.org/10.1109/ICOSEC51865.2021.9591796
-- Mishra, A. G. (2025). *Sigma Bond Calculation via Euler's Formula for Planar and Polyhedral Molecular Graphs*. DOI: https://doi.org/10.21203/rs.3.rs-7340867/v1  
+- Mishra, A. G. (2021). *Design and Implementation of Hybrid BCI based Wheelchair*. DOI: https://doi.org/10.1109/ICOSEC51865.2021.9591796
 - Mishra, A. G. (2025). *NeuroPhoton: A Theoretical Review and Modeling Framework for Contactless BCIs*. DOI: https://doi.org/10.5281/zenodo.16884337  
+- Mishra, A. G. (2025). *Sigma Bond Calculation via Euler's Formula for Planar and Polyhedral Molecular Graphs*. DOI: https://doi.org/10.21203/rs.3.rs-7340867/v1  
 
 ## Skills & tools
 Python · NumPy · SciPy · pandas · Jupyter · Git · GitHub Actions · signal processing · graph theory
