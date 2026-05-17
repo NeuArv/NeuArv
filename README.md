@@ -37,11 +37,11 @@ Companion code and documentation for a hybrid BCI wheelchair project.
 
 Repo: [NeuArv/hybrid-bci-wheelchair](https://github.com/NeuArv/hybrid-bci-wheelchair)
 
-### Intelligent Hydration System
+### EEG Challenge 2025
 
-Smart hydration machine prototype and vending-machine alternative concept.
+EEG-focused challenge work, signal processing experiments, learning notes, and reproducible neuroscience workflows.
 
-Repo: [NeuArv/IntelligentHydrationSystem](https://github.com/NeuArv/IntelligentHydrationSystem)
+Repo: [NeuArv/eeg-challenge-2025](https://github.com/NeuArv/eeg-challenge-2025)
 
 ## How I document projects
 
@@ -72,9 +72,9 @@ project-name/
 
 ## Selected publications
 
-- Mishra, A. G. (2021). *Design and Implementation of Hybrid BCI based Wheelchair*. DOI: https://doi.org/10.1109/ICOSEC51865.2021.9591796
-- Mishra, A. G. (2025). *NeuroPhoton: A Theoretical Review and Modeling Framework for Contactless BCIs*. DOI: https://doi.org/10.5281/zenodo.16884337
-- Mishra, A. G. (2025). *Sigma Bond Calculation via Euler's Formula for Planar and Polyhedral Molecular Graphs*. DOI: https://doi.org/10.21203/rs.3.rs-7340867/v1
+- Mishra, A. G. (2021). [*Design and Implementation of Hybrid BCI based Wheelchair*](https://doi.org/10.1109/ICOSEC51865.2021.9591796).
+- Mishra, A. G. (2025). [*NeuroPhoton: A Theoretical Review and Modeling Framework for Contactless BCIs*](https://doi.org/10.5281/zenodo.16884337).
+- Mishra, A. G. (2025). [*Sigma Bond Calculation via Euler's Formula for Planar and Polyhedral Molecular Graphs*](https://doi.org/10.21203/rs.3.rs-7340867/v1).
 
 ## Skills and tools
 
