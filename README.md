@@ -75,6 +75,7 @@ project-name/
 - Mishra, A. G. (2021). [*Design and Implementation of Hybrid BCI based Wheelchair*](https://doi.org/10.1109/ICOSEC51865.2021.9591796).
 - Mishra, A. G. (2025). [*NeuroPhoton: A Theoretical Review and Modeling Framework for Contactless BCIs*](https://doi.org/10.5281/zenodo.16884337).
 - Mishra, A. G. (2025). [*Sigma Bond Calculation via Euler's Formula for Planar and Polyhedral Molecular Graphs*](https://doi.org/10.21203/rs.3.rs-7340867/v1).
+- Mishra, A. G., & Wong, A. (2026). [*What Does EEG Preprocessing Contribute to Cross-Subject Decoding? A Subject-Level Ablation Study of High-Density EEG*](https://doi.org/10.21203/rs.3.rs-10969881/v1).
 
 ## Skills and tools
 
