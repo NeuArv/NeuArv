@@ -1,4 +1,4 @@
-# Arvind Gyandatt Mishra
+# Arvind Gyandatt
 
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0009-0009-6312-1014&color=84AA15&logo=orcid)](https://orcid.org/0009-0009-6312-1014)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?logo=github)](https://neuarv.github.io/neuarv-researcher/)
