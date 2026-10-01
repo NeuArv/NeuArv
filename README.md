@@ -6,19 +6,20 @@
 [![Google Scholar](https://img.shields.io/static/v1?label=Google%20Scholar&message=Arvind%20Gyandatt%20Mishra&color=blue)](https://scholar.google.com/citations?user=rHo5e1sAAAAJ&hl=en&authuser=1)
 [![Email](https://img.shields.io/badge/Email-arvind.gm200124%40gmail.com-lightgrey?logo=mail&logoColor=white)](mailto:arvind.gm200124@gmail.com)
 
-Incoming M.Sc. Neuroscience student at the Graduate School of Systemic Neurosciences, LMU Munich.
+M.Sc. Neuroscience student at the Graduate School of Systemic Neurosciences, LMU Munich, while continuing to work at Work Microwave GmbH, Munich.
 
 I am building a long-term research portfolio around computational neuroscience, brain-computer interfaces, neurotechnology, and reproducible scientific computing.
 
 ## About me
 
-I am an independent researcher preparing to begin my M.Sc. in Neuroscience at GSN / LMU Munich. My work connects neural interfaces, computational modeling, signal processing, and reproducible research practice.
+I am an independent researcher who began my M.Sc. in Neuroscience at GSN / LMU Munich in October 2026, alongside continuing my work at Work Microwave GmbH. My work connects neural interfaces, computational modeling, signal processing, and reproducible research practice.
 
 I use GitHub as a public research notebook: a place to document projects, prototypes, learning notes, experiments, figures, and code that can be understood and reused by others.
 
 ## Current focus
 
-- Preparing for M.Sc. Neuroscience at GSN / LMU Munich
+- M.Sc. Neuroscience at GSN / LMU Munich, started October 2026
+- Continuing to work at Work Microwave GmbH, Munich
 - Strengthening foundations in neuroscience, statistics, and signal processing
 - Building reproducible projects in computational neuroscience and BCI
 - Organizing research code, documentation, and technical notes for long-term use
